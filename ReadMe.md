@@ -14,6 +14,7 @@
 </div>
 
 ## 🚀 Skills
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,3 +47,4 @@
 | Project 1 | Project 2 |
 | :--------:| :--------:|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=GEADEZIST&theme=radical)](https://github.com/Eshkhuvvatofff/GEADEZIST) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=GameVault&theme=radical)](https://github.com/Eshkhuvvatofff/GameVault) |
+</div>
