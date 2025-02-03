@@ -1,22 +1,17 @@
 <div align="center">
-
-<!-- Bitta jadval (table) ichida chap tomonda ism, o‘ng tomonda gif -->
-<table>
-  <tr>
-    <!-- Chap tomondagi ustun -->
-    <td align="left">
-      <h1>👋 Hi, I'm Eshkhuvvatofff</h1>
-    </td>
-    <!-- O‘ng tomondagi ustun -->
-    <td align="right">
+  <div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto;">
+    <div style="text-align: left;">
+      <h1 style="margin: 0;">👋 Hi, I'm Eshkhuvvatofff</h1>
+    </div>
+    <div style="text-align: right;">
       <img 
         src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"
         alt="GIF"
         width="200"
       />
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
 
 ## 🚀 Skills
 
@@ -51,5 +46,3 @@
 | Project 1 | Project 2 |
 | :--------:| :--------:|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=GEADEZIST&theme=radical)](https://github.com/Eshkhuvvatofff/GEADEZIST) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eshkhuvvatofff&repo=GameVault&theme=radical)](https://github.com/Eshkhuvvatofff/GameVault) |
-
-</div>
